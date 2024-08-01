@@ -4,12 +4,13 @@ Welcome to the **Machine Learning Adventure** repository! This repository is ded
 
 Machine learning is a fascinating field that combines statistics, computer science, and domain expertise to create models that can learn from data. This repository aims to provide a hands-on approach to learning machine learning through practical projects and detailed explanations.
 
-## Installation
-To get started with the projects, you need to clone the repository and install the necessary dependencies. Make sure you have Anaconda installed for managing your Python packages.
+In this repository, you'll find:
+- Detailed tutorials on various machine learning algorithms.
+- Hands-on projects with real-world datasets.
+- Code examples in Python using popular libraries like scikit-learn, TensorFlow, and PyTorch.
+- Resources and references for further reading.
+
+To clone the repository, use the following command:
 
 ```bash
-git clone https://github.com/yourusername/machine-learning-adventure.git
-cd machine-learning-adventure
-conda create --name ml-adventure python=3.8
-conda activate ml-adventure
-pip install -r requirements.txt
+git clone https://github.com/Gulciha-n/machine-learning-adventure.git
